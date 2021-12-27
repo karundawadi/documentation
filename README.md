@@ -14,8 +14,8 @@ Google
 ## User stories 
 1. Feature one 
     i. Sub description of the feature 
-2. Feature two 
-    ii. Sub description of feature 
+3. Feature two 
+    i. Sub description of feature 
 
 ## Application working demo 
 
